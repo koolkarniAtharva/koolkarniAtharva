@@ -12,10 +12,10 @@ A Technology Enthusiast from INDIA 🇮🇳
 ## Connect with Me:
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/atharva-kulkarni-397221275)" target="_blank">
+  <a href="(https://www.linkedin.com/in/atharva-kulkarni-397221275)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://github.com/your-profile](https://github.com/koolkarniAtharva)" target="_blank">
+  <a href="(https://github.com/koolkarniAtharva)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="katharva789@gmail.com" target="_blank">
