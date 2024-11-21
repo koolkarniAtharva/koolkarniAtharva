@@ -11,7 +11,7 @@ A Technology Enthusiast from INDIA 🇮🇳
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: i am a **Football** Nerd⚽🥅
 
-## Connect with Me:
+## Connect with Me 🔗:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/atharva-kulkarni-397221275" target="_blank">
