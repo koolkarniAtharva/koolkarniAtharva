@@ -43,8 +43,9 @@ A Technology Enthusiast from INDIA 🇮🇳
 
 ---
 ## GitHub Stats: 📊
+<!---
 ![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koolkarniAtharva&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
-
+--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koolkarniAtharva&layout=compact&theme=radical)
 
 
