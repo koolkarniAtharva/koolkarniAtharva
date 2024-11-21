@@ -10,6 +10,7 @@ A Technology Enthusiast from INDIA 🇮🇳
 - 📫 How to reach me through mail:-katharva789@gmail.com
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: i am a **Football** Nerd⚽🥅
+- "**Striving to build innovative solutions one line of code at a time.**"
 
 ## Connect with Me 🔗:
 
