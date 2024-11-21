@@ -7,7 +7,7 @@ A Technology Enthusiast from INDIA 🇮🇳
 - 👀 I’m interested in learning AI/ML
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me through mail:-katharva789@gmail.com
-- 😄 Pronouns:his/he
+- 😄 Pronouns:he/him
 - ⚡ Fun fact: i am a Football Nerd⚽🥅
 
 <!---
