@@ -8,7 +8,7 @@ A Technology Enthusiast from INDIA 🇮🇳
 - 💬 Ask me about **HTML, CSS, JS, React.js, Node.js, Next.js, MySQL, MongoDB, Tailwind css, Bootstrap**
 - 🌱 I’m currently learning **MERN** Stack
 - 📫 How to reach me through mail:-katharva789@gmail.com
-- 😄 Pronouns:he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am a **Football** Nerd⚽🥅
 - "**Striving to build innovative solutions one line of code at a time.😁**"
 
