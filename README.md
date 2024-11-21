@@ -1,4 +1,5 @@
-A Technology Enthusiast from INDIA 🇮🇳![image](https://github.com/user-attachments/assets/c2882536-56b4-45cf-bc82-a44fec811c77)
+A Technology Enthusiast from INDIA 🇮🇳 ![image](https://github.com/user-attachments/assets/d58f0f6c-b38f-4046-bfa9-362183e5b833)
+
 
 
 - 👋 Hi, I’m @koolkarniAtharva
