@@ -5,11 +5,11 @@ A Technology Enthusiast from INDIA 🇮🇳
 
 - 👋 Hi, I’m @koolkarniAtharva
 - 👀 I’m interested in learning AI/ML
-- 🌱 I’m currently learning MERN Stack
+- 💬 Ask me about **HTML, CSS, JS, React.js, Node.js, Next.js, MySQL, MongoDB, Tailwind css, Bootstrap**
+- 🌱 I’m currently learning **MERN** Stack
 - 📫 How to reach me through mail:-katharva789@gmail.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact: i am a Football Nerd⚽🥅
-## Connect with Me:
+- ⚡ Fun fact: i am a **Football** Nerd⚽🥅
 
 ## Connect with Me:
 
