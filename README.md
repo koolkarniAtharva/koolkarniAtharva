@@ -42,6 +42,11 @@ A Technology Enthusiast from INDIA 🇮🇳
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
 ---
+## GitHub Stats: 📊
+![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koolkarniAtharva&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koolkarniAtharva&layout=compact&theme=radical)
+
 
 <!---
 koolkarniAtharva/koolkarniAtharva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
