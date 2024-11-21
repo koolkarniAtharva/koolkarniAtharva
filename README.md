@@ -1,3 +1,5 @@
+A Technology Enthusiast from INDIA 🇮🇳![image](https://github.com/user-attachments/assets/5d1cf45b-811c-49da-b82f-a09007bf56b0)
+
 - 👋 Hi, I’m @koolkarniAtharva
 - 👀 I’m interested in learning AI/ML
 - 🌱 I’m currently learning MERN Stack
