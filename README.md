@@ -1,9 +1,17 @@
-## A Technology Enthusiast from INDIA 
+<div align="center">
+
+  
+## 👋 Hello, I am  ATHARVA KULKARNI
+
+</div>
+
+
+A Technology Enthusiast from INDIA 
 
 
 ![image](https://github.com/user-attachments/assets/d58f0f6c-b38f-4046-bfa9-362183e5b833)
 
-- 👋 Hi, I’m @koolkarniAtharva
+
 - 👀 I’m interested in learning AI/ML/Data Science
 - 💬 Ask me about **HTML, CSS, JS, React.js, Node.js, Next.js, MySQL, MongoDB, Tailwind css, Bootstrap**
 - 🌱 I’m currently learning **MERN** Stack
