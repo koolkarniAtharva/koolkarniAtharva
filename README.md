@@ -17,7 +17,7 @@ A Technology Enthusiast from INDIA
 - 👀 I’m interested in learning AI/ML/Data Science
 - 💬 Ask me about **HTML, CSS, JS, React.js, Node.js, Next.js, MySQL, MongoDB, Tailwind css, Bootstrap**
 - 🌱 I’m currently learning **MERN** Stack
-- 📫 How to reach me through mail:-katharva789@gmail.com
+- 📫 How to reach me:-katharva789@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am a **Football** Nerd⚽🥅
 - "**Striving to build innovative solutions one line of code at a time.😁**"
