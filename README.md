@@ -1,7 +1,6 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=atharvakulkarni&color=ff69b4&label=Visitors%20are%20here!&style=plastic)
-
 <div align="center">
-
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=atharvakulkarni&color=ff69b4&label=Visitors%20are%20here!&style=plastic)
   
 ## 👋 Hello, I am  ATHARVA KULKARNI
 
